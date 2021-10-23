@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/freetts-jsapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/cmutimelex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/cmu_us_kal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/mbrola.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/en_us.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/cmu_time_awb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/cmudict04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dictionary/lib/cmulex.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
